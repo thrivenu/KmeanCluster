@@ -6,7 +6,7 @@ We have implemented K-means algorithm for Euclidean and Great Circle distance me
 
 #### Contributors
 
-* [Riz Amatya ][RA](ramat2@unh.newhaven.edu)
+* [Riz Amatya ] [RA] (ramat2@unh.newhaven.edu)
 * [Upender Boddu][UB] (ubodd1@unh.newhaven.edu)
 * TrivenuBabu Manukonda (tmanu1@unhnewhaven.edu)
 * Syeda Faitha Buttul (sbutt3@unh.newhaven.edu)
