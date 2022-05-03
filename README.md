@@ -1,6 +1,6 @@
 # K-means for Geo-location Clustering in Spark
 
-### This is a final group project for DSCI (^007) -02 
+### This is a final group project for DSCI (6007) -02 
 
 We have implemented K-means algorithm for Euclidean and Great Circle distance measurement. Our algorithm iteratively updates the location of k-cluster centroids until it converges to α = 0.1 km, where α is converging distance. We processed our data on Amazon EMR. 
 
